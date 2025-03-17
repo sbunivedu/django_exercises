@@ -2,9 +2,9 @@
 
 ## **Project Overview**
 In this project, students will build a Django-based **To-Do App** that allows users to **create, read, update, and delete (CRUD) tasks**. The app will include:
-- [ ] **User authentication** (login, logout, registration).
-- [ ] **A decent UI** using Bootstrap for styling.
-- [ ] **Undo delete functionality** using Django sessions.
+- [x] **User authentication** (login, logout, registration).
+- [x] **A decent UI** using Bootstrap for styling.
+- [x] **Undo delete functionality** using Django sessions.
 
 This project reinforces **Django fundamentals**, including models, views, forms, templates, authentication, and session management.
 
@@ -201,9 +201,9 @@ Run the server:
 python manage.py runserver
 ```
 Test the following:
-- [ ] Register a new user
-- [ ] Add, edit, and delete tasks
-- [ ] Check **undo delete** feature
+- [x] Register a new user
+- [x] Add, edit, and delete tasks
+- [x] Check **undo delete** feature
 
 ---
 
